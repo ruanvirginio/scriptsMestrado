@@ -1,1 +1,1 @@
-# mestrado
+# Scripts pra dissertação de mestrado
